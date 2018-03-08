@@ -1,1 +1,2 @@
 # VSCodeConfigureTest
+Testing git configuration
